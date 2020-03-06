@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hk540539/MonstorApp/static/css/main.796c6eed.chunk.css",
+    "main.js": "/hk540539/MonstorApp/static/js/main.1029c204.chunk.js",
+    "main.js.map": "/hk540539/MonstorApp/static/js/main.1029c204.chunk.js.map",
+    "runtime-main.js": "/hk540539/MonstorApp/static/js/runtime-main.d4694125.js",
+    "runtime-main.js.map": "/hk540539/MonstorApp/static/js/runtime-main.d4694125.js.map",
+    "static/js/2.85647d0c.chunk.js": "/hk540539/MonstorApp/static/js/2.85647d0c.chunk.js",
+    "static/js/2.85647d0c.chunk.js.map": "/hk540539/MonstorApp/static/js/2.85647d0c.chunk.js.map",
+    "index.html": "/hk540539/MonstorApp/index.html",
+    "precache-manifest.deb6a0d4c74f15f62a372a2bb26febdb.js": "/hk540539/MonstorApp/precache-manifest.deb6a0d4c74f15f62a372a2bb26febdb.js",
+    "service-worker.js": "/hk540539/MonstorApp/service-worker.js",
+    "static/css/main.796c6eed.chunk.css.map": "/hk540539/MonstorApp/static/css/main.796c6eed.chunk.css.map",
+    "static/js/2.85647d0c.chunk.js.LICENSE.txt": "/hk540539/MonstorApp/static/js/2.85647d0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4694125.js",
+    "static/js/2.85647d0c.chunk.js",
+    "static/css/main.796c6eed.chunk.css",
+    "static/js/main.1029c204.chunk.js"
+  ]
+}
